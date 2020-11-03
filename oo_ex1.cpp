@@ -61,3 +61,9 @@ int main() {
 
    return 0;
 }
+/*
+When the above code is compiled and executed, it produces the following result:
+  Volume of Box1 : 210
+  Volume of Box2 : 1560
+  Volume of Box3 : 5400
+*/
